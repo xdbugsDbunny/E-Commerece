@@ -1,2 +1,1 @@
-# E-Commerece
- React.js and Tailwind CSS
+# ecommerce-shop-starter
